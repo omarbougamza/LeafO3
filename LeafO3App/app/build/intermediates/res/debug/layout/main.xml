@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    >
-   <LinearLayout 
-   android:orientation="horizontal"
-   android:layout_height="wrap_content"
-   android:layout_width="match_parent"
-   >
-    <Button android:text="@string/btnIntend" android:id="@+id/btnIntend"
-        android:layout_height="wrap_content"
-        android:layout_width="0dp"
-        android:layout_weight="1" />
-    <Button android:text="@string/btnIntendS" android:id="@+id/btnIntendS"
-        android:layout_height="wrap_content"
-        android:layout_width="0dp"
-        android:layout_weight="1" />
-    <Button android:text="@string/btnIntendV" android:id="@+id/btnIntendV"
-        android:layout_height="wrap_content"
-        android:layout_width="0dp"
-        android:layout_weight="1" />
-  </LinearLayout>
-  <ImageView 
-      android:layout_height="wrap_content" 
-      android:layout_width="wrap_content" 
-      android:visibility="visible"
-      android:id="@+id/imageView1" />
-  <VideoView 
-      android:layout_height="wrap_content" 
-      android:layout_width="wrap_content" 
-      android:visibility="invisible"
-      android:id="@+id/videoView1" />
+    android:background="#ff378b2e"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="visible" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/picture_instructions"
+            android:textColor="@android:color/white"
+            android:focusable="false"
+            android:padding="20dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnIntend"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/btnIntend" />
+
+    </LinearLayout>
+
 </LinearLayout>
 <!-- From: file:/C:/Users/BBC/Desktop/LeafO3/LeafO3App/app/src/main/res/layout/main.xml -->
