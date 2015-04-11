@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, PhotoIntentActivity!</string>
+    <string name="app_name">LeafO3</string>
+    <string name="btnIntend">Picture Your Leaf</string>
+    <string name="btnIntendS">Take Picture</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">LeavesSample</string>
+    <string name="picture_instructions">Notes:\n1- Picture should be of a Leaf.\n2- Position your Leaf in the middle of the camera frame.\n3- Put your leaf on a white background.</string>
+</resources>
