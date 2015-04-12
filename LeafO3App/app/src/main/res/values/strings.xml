@@ -3,6 +3,7 @@
     <string name="hello">Hello World, PhotoIntentActivity!</string>
     <string name="app_name">LeafO3</string>
     <string name="btnIntend">Picture Your Leaf</string>
+    <string name="processImage">Process</string>
     <string name="btnIntendS">Take Picture</string>
     <string name="btnIntendV">Take Video</string>
     <string name="cannot">Cannot</string>

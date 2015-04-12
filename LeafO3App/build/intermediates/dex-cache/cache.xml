@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-42e2c4cc3099d7928c487ac0b1974b3c7a539c37.jar" />
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-860c17d8df582058c0bb4b8b80147952893a389f.jar" />
     </item>
     <item
         jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
@@ -16,11 +16,11 @@
         <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-5bf92ef7797fd08ed2e2ee496d5b9f92c342d6d7.jar" />
     </item>
     <item
-        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
-        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-860c17d8df582058c0bb4b8b80147952893a389f.jar" />
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-42e2c4cc3099d7928c487ac0b1974b3c7a539c37.jar" />
     </item>
     <item
         jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
@@ -37,13 +37,6 @@
         <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-a3fcf62d96c9a1efd4fa3fa9e509ccaa5eef9b04.jar" />
     </item>
     <item
-        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
-        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-b12e0705b194b7b63a14f9804ddc693f879ff6ed.jar" />
-    </item>
-    <item
         jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -51,18 +44,18 @@
         <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-88543ca896662b5c0bd4c48a2f73d7d5a0b79800.jar" />
     </item>
     <item
-        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-612fb1883f91e3eab75482db171f4818664e69ab.jar" />
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-b12e0705b194b7b63a14f9804ddc693f879ff6ed.jar" />
     </item>
     <item
-        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
-        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-871f0e0ad658b82268a8901eba3321562233d0c6.jar" />
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-a4eddaef4b9b743e05cca306ff240933cff4e43c.jar" />
     </item>
     <item
         jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
@@ -72,11 +65,18 @@
         <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-0c18da79f91dd0ea8928baca1eac414b5b14e142.jar" />
     </item>
     <item
-        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
-        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-a4eddaef4b9b743e05cca306ff240933cff4e43c.jar" />
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-871f0e0ad658b82268a8901eba3321562233d0c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\classes-612fb1883f91e3eab75482db171f4818664e69ab.jar" />
     </item>
     <item
         jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
@@ -126,6 +126,13 @@
         revision="21.1.2"
         sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
         <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-04f2ab4006f35abd6807b31ca17a9c778b4c3b35.jar" />
+    </item>
+    <item
+        jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\src\main\res\libs\jai_imageio-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27d867283f9043b05a8fb210773d0ef72b767a58">
+        <dex dex="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\pre-dexed\debug\jai_imageio-1.1-767da23cdc35c7eb76fe311187821db20f7c6615.jar" />
     </item>
     <item
         jar="C:\Users\BBC\Desktop\LeafO3\LeafO3App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"

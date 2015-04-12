@@ -2,43 +2,64 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#ff378b2e"
+    android:background="#ff39b54a"
     android:orientation="vertical">
 
 
-    <LinearLayout
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="7"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:padding="20dp">
 
-        <ImageView
-            android:id="@+id/imageView1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:visibility="visible" />
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/picture_instructions"
             android:textColor="@android:color/white"
             android:focusable="false"
-            android:padding="20dp"/>
+            android:id="@+id/instructionText"
 
-    </LinearLayout>
+            android:padding="20dp"/>
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="visible"
+            android:layout_below="@id/instructionText"/>
+
+
+    </RelativeLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp">
 
         <Button
             android:id="@+id/btnIntend"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:text="@string/btnIntend"
+            android:background="#96b2911d"
+            android:textColor="@android:color/white"
+            android:textSize="20dp"
+            android:layout_marginRight="5dp"/>
+        <Button
+            android:id="@+id/processImageBtn"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="@string/btnIntend" />
+            android:text="@string/processImage"
+            android:background="@android:color/darker_gray"
+            android:textColor="@android:color/white"
+            android:textSize="20dp"
+            android:enabled="false"/>
 
     </LinearLayout>
 

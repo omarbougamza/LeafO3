@@ -257,6 +257,7 @@ available. Please contact the developer for assistance.</string>
     <eat-comment/>
     <string name="hello">Hello World, PhotoIntentActivity!</string>
     <string name="picture_instructions">Notes:\n1- Picture should be of a Leaf.\n2- Position your Leaf in the middle of the camera frame.\n3- Put your leaf on a white background.</string>
+    <string name="processImage">Process</string>
     <!-- From: file:/C:/Users/BBC/Desktop/LeafO3/LeafO3App/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
